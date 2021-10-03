@@ -1,0 +1,273 @@
+1632958405240	geckodriver	INFO	Listening on 127.0.0.1:50190
+1632958408431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofilextWvmX"
+1632958413591	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofilextWvmX\\search.json.mozlz4", (void 0)))
+1632958421834	Marionette	INFO	Listening on port 50198
+1632958422785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1632958443783	Marionette	INFO	Stopped listening on port 50198
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632958570613	geckodriver	INFO	Listening on 127.0.0.1:50263
+1632958573653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofilegbgojl"
+1632958574308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofilegbgojl\\search.json.mozlz4", (void 0)))
+1632958579746	Marionette	INFO	Listening on port 50271
+1632958579921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1632958904446	Marionette	INFO	Stopped listening on port 50271
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+zprofileIUdO9F"
+1632958863175	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileIUdO9F\\search.json.mozlz4", (void 0)))
+1632958869962	Marionette	INFO	Listening on port 50347
+1632958870770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1632958903580	Marionette	INFO	Stopped listening on port 50347
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1632958940914	geckodriver	INFO	Listening on 127.0.0.1:50406
+1632958944054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofilefLJhrm"
+1632958947674	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofilefLJhrm\\search.json.mozlz4", (void 0)))
+1632958952153	Marionette	INFO	Listening on port 50414
+1632958952516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1632959096748	Marionette	INFO	Stopped listening on port 50414
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632959125653	geckodriver	INFO	Listening on 127.0.0.1:50481
+1632959128715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofile0JcamZ"
+1632959129359	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofile0JcamZ\\search.json.mozlz4", (void 0)))
+1632959133195	Marionette	INFO	Listening on port 50489
+1632959133473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632961826751	Marionette	INFO	Stopped listening on port 50489
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nette	INFO	Listening on port 50565
+1632959271043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632961827394	Marionette	INFO	Stopped listening on port 50561632961827855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileAdiBLk"
+1632961831805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileAdiBLk\\search.json.mozlz4", (void 0)))
+1632961836205	Marionette	INFO	Listening on port 50680
+1632961836394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Tried to send a 'target-destroyed-form' event on an already destroyed actor 'watcher'"
+1632962122864	Marionette	INFO	Stopped listening on port 50680
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileDyRbUI\\search.json.mozlz4", (void 0)))
+1632962000620	Marionette	INFO	Listening on port 50750
+1632962001031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1632962030622	Marionette	INFO	Stopped listening on port 50750
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632962125716	geckodriver	INFO	Listening on 127.0.0.1:50812
+1632962128783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileNRZGUk"
+1632962130237	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileNRZGUk\\search.json.mozlz4", (void 0)))
+1632962134370	Marionette	INFO	Listening on port 50820
+1632962134634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 356: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 6157 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:fechaFlash();'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2091:35
+addAllSources@resource://devtools/server/actors/thread.js:1446:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:159:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:50:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:521:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:463:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:fechaFlash();'
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.1/modules/related-posts/related-posts.css?ver=20210604 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/quotes.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/plugins/infomoney/public/css/infomoney-public.css?ver=1.0.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/vendor/jquery.dataTables.min.css?ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/vendor/select2.min.css?ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/widget-advertising.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/vendor/bootstrap.min.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/style.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/author.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/single.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/shortcode-related-posts.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Material+Icons&display=swap&ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Material+Icons&display=swap&ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/widget-ticker.css?ver=2.8 without a browsingContextID set
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632962700434	Marionette	INFO	Stopped listening on port 50820
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+FoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofile5DNNzA\\search.json.mozlz4", (void 0)))
+1632962607892	Marionette	INFO	Listening on port 51270
+1632962607948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 356: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 7520 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632962693364	Marionette	INFO	Stopped listening on port 51270
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7680, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+sts, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileaCaqo4\\search.json.mozlz4", (void 0)))
+1632962677460	Marionette	INFO	Listening on port 51373
+1632962677824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 356: unreachable code after return statement
+1632962691255	Marionette	INFO	Stopped listening on port 51373
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1632962724300	geckodriver	INFO	Listening on 127.0.0.1:51487
+1632962727427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofile65z9u3"
+1632962727886	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofile65z9u3\\search.json.mozlz4", (void 0)))
+1632962731957	Marionette	INFO	Listening on port 51495
+1632962732270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-T8M3XX2, line 356: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-1aq-589pTXQhIX0O0sr0by93NOseZw7_D6wdr9M3ZU.js line 1 > eval line 2431 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:fechaFlash();'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:442:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2091:35
+addAllSources@resource://devtools/server/actors/thread.js:1446:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:159:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:50:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:521:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:463:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:fechaFlash();'
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-10.1/modules/related-posts/related-posts.css?ver=20210604 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/quotes.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/plugins/infomoney/public/css/infomoney-public.css?ver=1.0.0 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/vendor/jquery.dataTables.min.css?ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/vendor/select2.min.css?ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/widget-advertising.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/vendor/bootstrap.min.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/style.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/author.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/single.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/shortcode-related-posts.css?ver=2.8 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Material+Icons&display=swap&ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://fonts.googleapis.com/css2?family=Material+Icons&display=swap&ver=5.8.1 without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.infomoney.com.br/wp-content/themes/infomoney/css/templates/widget-ticker.css?ver=2.8 without a browsingContextID set
+1632962834804	Marionette	INFO	Stopped listening on port 51495
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633295848992	geckodriver	INFO	Listening on 127.0.0.1:50155
+1633295851922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileN0SZ79"
+1633295859219	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileN0SZ79\\search.json.mozlz4", (void 0)))
+1633295879780	Marionette	INFO	Listening on port 50163
+1633295881369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-cgph3oCH2yNQQdiERCK2Gkts8WjXVEFlA4KtbNmUWg.js line 1 > eval line 3788 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1633296664772	Marionette	INFO	Stopped listening on port 50163
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 120, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633299598066	geckodriver	INFO	Listening on 127.0.0.1:50536
+1633299601124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofilexhmlK8"
+1633299607641	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofilexhmlK8\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 221: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsINavBookmarksService.removeObserver]
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 6772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+[Parent 6772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1633300854393	geckodriver	INFO	Listening on 127.0.0.1:50627
+1633300857437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileqBHcI4"
+1633300865350	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileqBHcI4\\search.json.mozlz4", (void 0)))
+1633300877790	Marionette	INFO	Listening on port 50635
+1633300878590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.melhorcambio.com/charts/js/exporting.js, line 1: ReferenceError: Highcharts is not defined
+1633300995110	Marionette	INFO	Stopped listening on port 50635
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x140007,name=PBackgroundLSDatabase::Msg_RequestAllowToClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x58000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 6636, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1633301042766	geckodriver	INFO	Listening on 127.0.0.1:50734
+1633301045890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileJj4UFX"
+1633301049319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileJj4UFX\\search.json.mozlz4", (void 0)))
+1633301053899	Marionette	INFO	Listening on port 50742
+1633301054417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-cgph3oCH2yNQQdiERCK2Gkts8WjXVEFlA4KtbNmUWg.js line 1 > eval line 1780 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://www.melhorcambio.com/charts/js/exporting.js, line 1: ReferenceError: Highcharts is not defined
+1633301173649	Marionette	INFO	Stopped listening on port 50742
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633301209142	geckodriver	INFO	Listening on 127.0.0.1:50853
+1633301212194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileA8vuHY"
+1633301212660	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileA8vuHY\\search.json.mozlz4", (void 0)))
+1633301216575	Marionette	INFO	Listening on port 50861
+1633301217129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.melhorcambio.com/charts/js/exporting.js, line 1: ReferenceError: Highcharts is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/-cgph3oCH2yNQQdiERCK2Gkts8WjXVEFlA4KtbNmUWg.js line 1 > eval line 4906 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633301253281	Marionette	INFO	Stopped listening on port 50861
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633301296341	geckodriver	INFO	Listening on 127.0.0.1:50948
+1633301299402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileQ5izHk"
+1633301300001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Rafae\\AppData\\Local\\Temp\\rust_mozprofileQ5izHk\\search.json.mozlz4", (void 0)))
+1633301304017	Marionette	INFO	Listening on port 50956
+1633301304384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633301309146	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.melhorcambio.com/charts/js/exporting.js, line 1: ReferenceError: Highcharts is not defined
+1633301501527	Marionette	INFO	Stopped listening on port 50956
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
